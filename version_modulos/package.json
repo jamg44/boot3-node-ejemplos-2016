@@ -1,0 +1,16 @@
+{
+  "name": "version_modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "chance": "^0.7.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Miguel González",
+  "license": "ISC"
+}
