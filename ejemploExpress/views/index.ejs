@@ -7,5 +7,17 @@
   <body>
     <h1><%= title %></h1>
     <p>Welcome to <%= title %></p>
+    <p>Suma: <%= suma %></p>
+
+    <% if (segundo % 2 === 0) { %>
+    <p> el segundo <%= segundo %> es par</p>
+    <% } else { %>
+    <p> el segundo <%= segundo %> es impar</p>
+    <% } %>
+
+    <% users.forEach(function (user) { %>
+      <p> Usuario: <%= user %></p>
+    <% }) %>
+
   </body>
 </html>
