@@ -7,6 +7,12 @@ var bodyParser = require('body-parser');
 
 var app = express();
 
+// Conexión a BD con mongoose
+require('./lib/connectMongoose');
+
+// Modelos
+require('./models/Agente');
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -28,6 +34,9 @@ app.use('/pepe', express.static(path.join(__dirname, 'public')));
 app.use('/', require('./routes/index'));
 app.use('/users', require('./routes/users'));
 app.use('/admin', require('./routes/admin'));
+
+// rutas del API
+app.use('/api/v1/agentes', require('./routes/api/v1/agentes'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
