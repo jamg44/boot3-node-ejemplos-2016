@@ -1,6 +1,6 @@
 "use strict";
 
-console.log('inicializo módulo');
+console.log('inicializo módulo suma');
 
 // crear una función
 var sumar = function (n1, n2) {
