@@ -1,0 +1,61 @@
+SHA1 Fingerprint=53:6F:1B:90:4F:1E:08:7A:AB:08:CD:61:DB:7F:9D:7F:A4:AC:40:32
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            b2:f3:59:ff:6d:26:dc:fe
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ES, ST=Madrid, L=Madrid, O=Decode, OU=Development, CN=AppName/emailAddress=asdsa@asdsa.es
+        Validity
+            Not Before: Apr 27 18:45:32 2016 GMT
+            Not After : Apr 25 18:45:32 2026 GMT
+        Subject: C=ES, ST=Madrid, L=Madrid, O=Decode, OU=Development, CN=AppName/emailAddress=asdsa@asdsa.es
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:c9:e0:7a:3a:5a:40:a4:bf:53:84:65:c0:45:26:
+                    d6:e8:7f:6e:ef:7e:63:55:60:28:50:ed:c9:7c:79:
+                    a4:cc:77:d1:5e:22:29:71:b8:75:56:01:4b:ec:e8:
+                    25:83:34:3d:4f:57:11:48:c2:49:fb:4c:2c:70:e5:
+                    61:20:2c:47:d7:5c:ca:43:c4:e2:01:e3:5f:6a:63:
+                    a6:2b:9e:71:bb:f6:38:20:d1:f9:91:3d:60:bb:af:
+                    cb:89:3e:83:98:c3:de:c1:b0:2c:89:00:da:a6:b2:
+                    9b:d3:39:3c:8c:6d:d6:07:d1:fc:4e:11:38:66:09:
+                    30:3b:7c:e6:16:7b:a6:15:a0:f8:c2:5c:a3:04:c9:
+                    e3:47:ae:20:c5:a7:c4:88:a2:a8:9d:e8:1b:26:dd:
+                    11:e6:85:9e:77:6a:8a:90:44:09:59:fd:74:63:52:
+                    52:b8:b2:fa:57:2b:5c:6d:71:26:62:a8:f6:a5:1b:
+                    23:63:64:c8:a2:62:b4:92:39:0b:aa:2d:e9:dc:46:
+                    20:cf:1e:d2:34:30:fe:0e:a4:db:e9:8e:4e:4e:f1:
+                    a7:f9:b2:74:1d:ca:50:bb:12:29:c9:07:54:eb:52:
+                    f6:3e:b7:bd:98:79:50:86:7c:7c:13:45:cf:6b:9b:
+                    67:8c:ea:13:69:85:0b:af:d8:c6:9a:39:1f:b7:b1:
+                    ef:eb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                2A:81:88:8C:2B:BE:34:AA:D8:66:D8:DF:CF:6D:92:78:55:DC:C2:08
+            X509v3 Authority Key Identifier: 
+                keyid:2A:81:88:8C:2B:BE:34:AA:D8:66:D8:DF:CF:6D:92:78:55:DC:C2:08
+                DirName:/C=ES/ST=Madrid/L=Madrid/O=Decode/OU=Development/CN=AppName/emailAddress=asdsa@asdsa.es
+                serial:B2:F3:59:FF:6D:26:DC:FE
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+        af:2a:e6:52:d5:a0:f7:9d:ff:2f:23:4c:cf:44:e0:62:c3:1d:
+        af:8c:b5:3d:79:e7:27:7b:02:d2:19:59:79:05:f7:2d:2e:61:
+        05:87:a4:6a:1a:ac:3f:f8:4f:e2:53:8b:28:a2:08:11:16:ce:
+        ef:2d:3f:77:67:aa:1b:aa:a0:fc:a2:d1:8c:42:30:2e:0a:22:
+        e6:fb:48:b8:f1:3a:22:9c:88:f8:3a:bd:fd:3f:ec:74:68:f5:
+        39:14:71:bb:5d:7f:b9:b3:0f:2c:e8:f2:bc:a2:d7:fc:5d:11:
+        3c:11:8f:4f:24:4a:73:f0:85:39:d1:4f:fb:20:0c:0c:b7:aa:
+        20:ae:16:1e:9d:13:eb:71:b5:5c:af:16:ee:44:16:df:29:65:
+        eb:dd:83:a2:79:a6:6a:45:cf:13:5e:d7:d7:81:c6:b0:ae:bb:
+        86:fe:21:1b:c6:45:42:c2:7c:d4:b8:1b:eb:ad:16:50:bb:5d:
+        55:a9:f8:71:80:7c:60:c2:43:c5:23:d1:97:58:a6:ea:aa:44:
+        f2:b5:77:52:74:0a:0c:02:77:84:42:da:85:8c:d2:6b:e5:44:
+        de:8c:c4:70:35:20:00:2c:41:ee:44:15:44:7f:d2:c3:d3:08:
+        89:10:55:97:ed:13:26:a6:6a:d3:b1:11:d8:c7:a1:4a:c4:26:
+        a3:98:9a:0f
